@@ -1,1 +1,1 @@
-from .Src.generateUniqueId import generate_unique_id
+from .Src.GenerateUniqueId import generate_unique_id
