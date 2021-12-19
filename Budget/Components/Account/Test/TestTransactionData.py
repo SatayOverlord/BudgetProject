@@ -112,5 +112,5 @@ class TestTransactionData(unittest.TestCase):
         self.assertEqual(td.get_id(), id)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()
